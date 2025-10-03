@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/7183a48f-8321-4c3a-9f3d-72cccc760922.svg)](https://wakatime.com/@7183a48f-8321-4c3a-9f3d-72cccc760922)
 <!--
 **kiy4h/kiy4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
