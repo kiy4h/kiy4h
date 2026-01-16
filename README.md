@@ -1,5 +1,8 @@
 ## Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/7183a48f-8321-4c3a-9f3d-72cccc760922.svg)](https://wakatime.com/@7183a48f-8321-4c3a-9f3d-72cccc760922)
+![Profile View Counter](https://komarev.com/ghpvc/?username=kiy4h)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kiy4h)
+
 <!--
 **kiy4h/kiy4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
