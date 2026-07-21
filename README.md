@@ -21,7 +21,7 @@
 const developer = {
     name: "Zakiyah Hasanah",
     location: "Indonesia",
-    education: "Computer Science",
+    education: "Computer Science Undergraduate Student",
     specialties: ["Full-Stack Development", "AI & Data Science", "Mobile Development"]
 };
 ```
